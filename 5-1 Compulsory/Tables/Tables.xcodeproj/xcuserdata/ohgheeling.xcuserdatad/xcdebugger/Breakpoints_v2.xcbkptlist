@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tables/ViewController.swift"
+            timestampString = "552384866.058635"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tables/CustomCell.swift"
+            timestampString = "552385622.358001"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "playOrPause(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tables/SnapShotDetailViewController.swift"
+            timestampString = "552384866.058731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tables/CustomCellRecord.swift"
+            timestampString = "553547974.53555"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tables.CustomCellRecord.__deallocating_deinit"
+                  moduleName = "Tables"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ohgheeling/Desktop/NDPv5.3/5-1%20Compulsory/Tables/Tables/CustomCellRecord.swift"
+                  timestampString = "553683217.571811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tables.CustomCellRecord.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Tables.CustomCellRecord"
+                  moduleName = "Tables"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ohgheeling/Desktop/NDPv5.3/5-1%20Compulsory/Tables/Tables/CustomCellRecord.swift"
+                  timestampString = "553683217.5738339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tables.CustomCellRecord.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Tables.CustomCellRecord"
+                  moduleName = "Tables"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ohgheeling/Desktop/NDPv5.3/5-1%20Compulsory/Tables/Tables/CustomCellRecord.swift"
+                  timestampString = "553683217.575817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tables.CustomCellRecord.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tables.CustomCellRecord&gt;"
+                  moduleName = "Tables"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ohgheeling/Desktop/NDPv5.3/5-1%20Compulsory/Tables/Tables/CustomCellRecord.swift"
+                  timestampString = "553683217.578056"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tables.CustomCellRecord.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tables.CustomCellRecord&gt;"
+                  moduleName = "Tables"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ohgheeling/Desktop/NDPv5.3/5-1%20Compulsory/Tables/Tables/CustomCellRecord.swift"
+                  timestampString = "553683217.579904"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
